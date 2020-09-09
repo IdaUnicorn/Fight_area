@@ -16,7 +16,7 @@ namespace Fight_area
   
         //laver constructors 
         public Harry(double Hitpoints, double Attack, double Defence)
-        {
+        { 
             hitpoints = Hitpoints;
             attack = Attack;
             defence = Defence;
